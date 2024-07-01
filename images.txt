@@ -4,4 +4,5 @@
 #ghcr.io/immich-app/immich-server:v1.106.4
 #gitlab/gitlab-ce:latest
 #gitlab/gitlab-runner:latest
-alpine:latest
+#alpine:latest
+mcr.microsoft.com/dotnet/sdk:7.0-alpine
