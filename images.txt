@@ -6,4 +6,5 @@
 #gitlab/gitlab-runner:latest
 #alpine:latest
 #mcr.microsoft.com/dotnet/sdk:7.0-alpine
-mcr.microsoft.com/dotnet/aspnet:7.0-alpine
+#mcr.microsoft.com/dotnet/aspnet:7.0-alpine
+docker:26.1.4-dind
