@@ -1,7 +1,7 @@
 #redis:6.2-alpine
 #tensorchord/pgvecto-rs:pg14-v0.2.0
-ghcr.io/immich-app/immich-machine-learning:v1.117.0
-ghcr.io/immich-app/immich-server:v1.117.0
+ghcr.io/immich-app/immich-machine-learning:v1.120.2
+ghcr.io/immich-app/immich-server:v1.120.2
 #gitlab/gitlab-ce:latest
 #gitlab/gitlab-runner:latest
 #alpine:latest
