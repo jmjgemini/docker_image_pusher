@@ -8,3 +8,4 @@ ghcr.io/immich-app/immich-server:v1.117.0
 #mcr.microsoft.com/dotnet/sdk:7.0-alpine
 #mcr.microsoft.com/dotnet/aspnet:7.0-alpine
 #docker:26.1.4-dind
+vaultwarden/server:latest
