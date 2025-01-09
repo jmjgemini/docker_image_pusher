@@ -5,7 +5,7 @@
 #gitlab/gitlab-ce:latest
 #gitlab/gitlab-runner:latest
 #alpine:latest
-mcr.microsoft.com/dotnet/sdk:9.0-alpine
-mcr.microsoft.com/dotnet/aspnet:9.0-alpine
+#mcr.microsoft.com/dotnet/sdk:9.0-alpine
+#mcr.microsoft.com/dotnet/aspnet:9.0-alpine
 #docker:26.1.4-dind
-#vaultwarden/server:latest
+vaultwarden/server:latest
