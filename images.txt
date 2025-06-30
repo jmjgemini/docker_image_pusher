@@ -1,12 +1,5 @@
 redis:6.2-alpine
-#tensorchord/pgvecto-rs:pg14-v0.2.0
-ghcr.io/immich-app/immich-machine-learning:v1.131.3
-ghcr.io/immich-app/immich-server:v1.131.3
-#gitlab/gitlab-ce:latest
-#gitlab/gitlab-runner:latest
-#alpine:latest
-#mcr.microsoft.com/dotnet/sdk:9.0-alpine
-#mcr.microsoft.com/dotnet/aspnet:9.0-alpine
-#docker:26.1.4-dind
-#vaultwarden/server:latest
-#postgres:15-alpine
+
+#ghcr.io/immich-app/immich-machine-learning:v1.131.3
+#ghcr.io/immich-app/immich-server:v1.131.3
+python:3.13-slim-bullseye
