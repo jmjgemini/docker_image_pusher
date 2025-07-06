@@ -1,5 +1,6 @@
-redis:6.2-alpine
+#redis:6.2-alpine
 
-#ghcr.io/immich-app/immich-machine-learning:v1.131.3
-#ghcr.io/immich-app/immich-server:v1.131.3
-python:3.13-slim-bullseye
+ghcr.io/immich-app/immich-machine-learning:v1.135.3
+ghcr.io/immich-app/immich-server:v1.135.3
+elestio/pgadmin:REL-9_5
+#python:3.13-slim-bullseye
